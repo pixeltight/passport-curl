@@ -1,0 +1,11 @@
+https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d
+
+
+Your Node.js authentication tutorial is (probably) wrong
+https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46
+
+Token based authentication in Node.js with Passport, JWT and bcrypt
+https://jonathas.com/token-based-authentication-in-nodejs-with-passport-jwt-and-bcrypt/
+
+token based authentication in node
+https://medium.com/hyphe/token-based-authentication-in-node-6e8731bfd7f2
